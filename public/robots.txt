@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /lang/en
+Disallow: /lang/ru
+
+Sitemap: https://objects-book.ru/sitemap.xml
